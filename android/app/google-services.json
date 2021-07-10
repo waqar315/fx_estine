@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979574687613",
+    "project_id": "fxestine-007-74e4e",
+    "storage_bucket": "fxestine-007-74e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979574687613:android:224221a1ade24690612e14",
+        "android_client_info": {
+          "package_name": "com.example.fx_estine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979574687613-h8qa5bdm0047ui2r02292l5ssr6de42p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0pKSNtfhC73IRKKMDJeeC8UDsLuurPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979574687613-h8qa5bdm0047ui2r02292l5ssr6de42p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
